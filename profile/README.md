@@ -7,7 +7,8 @@ Everything here is placeholder scaffolding. The six students (Alice, Bob, Carol,
 ## Structure
 
 - [instructor](https://github.com/ghclass-paper/instructor) is the instructor repository: the course roster plus the setup, distribution, and grading scripts, one folder per workflow stage.
-- [hw1](https://github.com/ghclass-paper/hw1) is the team assignment template and [midterm1](https://github.com/ghclass-paper/midterm1) the individual one; [hw1-key](https://github.com/ghclass-paper/hw1-key) is the answer key used at grading.
+- [hw1](https://github.com/ghclass-paper/hw1) is the team assignment template; [hw1-key](https://github.com/ghclass-paper/hw1-key) is its answer key, used at grading.
+- [midterm1](https://github.com/ghclass-paper/midterm1) is the individual assignment template.
 - [hw1_lab01_team01](https://github.com/ghclass-paper/hw1_lab01_team01) and [hw1_lab01_team02](https://github.com/ghclass-paper/hw1_lab01_team02) are the team repositories distributed from the hw1 template.
 - [midterm1_alice](https://github.com/ghclass-paper/midterm1_alice), [midterm1_bob](https://github.com/ghclass-paper/midterm1_bob), [midterm1_carol](https://github.com/ghclass-paper/midterm1_carol), [midterm1_dave](https://github.com/ghclass-paper/midterm1_dave), [midterm1_elizabeth](https://github.com/ghclass-paper/midterm1_elizabeth), and [midterm1_fred](https://github.com/ghclass-paper/midterm1_fred) are the six individual repositories distributed from the midterm1 template.
 
