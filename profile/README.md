@@ -2,7 +2,7 @@
 
 This organization is the live companion to the paper "A Modern Approach to Teaching Statistics and Data Science using Git and GitHub", which documents a scripted, end-to-end instructor workflow for running a course on GitHub, built on the [ghclass](https://github.com/rundel/ghclass) R package.
 
-Everything here is placeholder scaffolding. The six students (Alice, Bob, Carol, Dave, Elizabeth, Fred) are fabricated, and the assignment content is intentionally generic. No real student data appears anywhere. The organization exists so that readers of the paper can point ghclass's read-side functions, such as `org_repos()`, `repo_n_commits()`, and `action_runs()`, at a real, public organization and see them work, and so they can browse a worked example of what a properly structured course organization looks like.
+Everything here is placeholder scaffolding. The six students (Alice, Bob, Carol, Dave, Elizabeth, Fred) are fabricated, their GitHub handles (`ghclass-alice` through `ghclass-fred`) do not correspond to real accounts, and the assignment content is intentionally generic. No real student data appears anywhere. The organization exists so that readers of the paper can point ghclass's read-side functions, such as `org_repos()`, `repo_n_commits()`, and `action_runs()`, at a real, public organization and see them work, and so they can browse a worked example of what a properly structured course organization looks like.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Everything here is placeholder scaffolding. The six students (Alice, Bob, Carol,
 - [hw1](https://github.com/ghclass-paper/hw1) is the team assignment template; [hw1-key](https://github.com/ghclass-paper/hw1-key) is its answer key, used at grading.
 - [hw1_lab01_team01](https://github.com/ghclass-paper/hw1_lab01_team01) and [hw1_lab01_team02](https://github.com/ghclass-paper/hw1_lab01_team02) are the team repositories distributed from the hw1 template.
 - [midterm1](https://github.com/ghclass-paper/midterm1) is the individual assignment template.
-- [midterm1_alice](https://github.com/ghclass-paper/midterm1_alice), [midterm1_bob](https://github.com/ghclass-paper/midterm1_bob), [midterm1_carol](https://github.com/ghclass-paper/midterm1_carol), [midterm1_dave](https://github.com/ghclass-paper/midterm1_dave), [midterm1_elizabeth](https://github.com/ghclass-paper/midterm1_elizabeth), and [midterm1_fred](https://github.com/ghclass-paper/midterm1_fred) are the six individual repositories distributed from the midterm1 template.
+- [midterm1_ghclass-alice](https://github.com/ghclass-paper/midterm1_ghclass-alice), [midterm1_ghclass-bob](https://github.com/ghclass-paper/midterm1_ghclass-bob), [midterm1_ghclass-carol](https://github.com/ghclass-paper/midterm1_ghclass-carol), [midterm1_ghclass-dave](https://github.com/ghclass-paper/midterm1_ghclass-dave), [midterm1_ghclass-elizabeth](https://github.com/ghclass-paper/midterm1_ghclass-elizabeth), and [midterm1_ghclass-fred](https://github.com/ghclass-paper/midterm1_ghclass-fred) are the six individual repositories distributed from the midterm1 template.
 
 Each distributed repository carries a continuous integration check that runs on every push, its status badge, and (for team repositories) a per-team contact list inserted into the README after distribution.
 
