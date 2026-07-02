@@ -13,4 +13,4 @@ Everything here is placeholder scaffolding. The six students (Alice, Bob, Carol,
 
 Each distributed repository carries a continuous integration check that runs on every push, its status badge, and (for team repositories) a per-team contact list inserted into the README after distribution.
 
-In a real course the organization and every repository in it would be private; this one is public, by design, so it can serve as a reference. See the [instructor repository](https://github.com/ghclass-paper/instructor) for details on how the organization was built and how to adapt the workflow to a course of your own.
+One important way this demo differs from a real course: visibility. In an actual course the instructor repository and every student repository are private, always. We usually make the assignment templates private as well, though that one is an instructor choice rather than a requirement. Everything here is public, by design, so the organization can serve as a reference. See the [instructor repository](https://github.com/ghclass-paper/instructor) for details on how the organization was built and how to adapt the workflow to a course of your own.
