@@ -2,7 +2,7 @@
 
 This organization is the live companion to the paper "A Modern Approach to Teaching Statistics and Data Science using Git and GitHub", which documents a scripted, end-to-end instructor workflow for running a course on GitHub, built on the [ghclass](https://github.com/rundel/ghclass) R package.
 
-Everything here is placeholder scaffolding. The six students (Alice, Bob, Carol, Dave, Elizabeth, Fred) are fabricated, their emails are on `example.edu`, and the assignment content is intentionally generic. No real student data appears anywhere. The organization exists so that readers of the paper can point ghclass's read-side functions, such as `org_repos()`, `repo_n_commits()`, and `action_runs()`, at a real, public organization and see them work, and so they can browse a worked example of what a correctly configured course organization looks like.
+Everything here is placeholder scaffolding. The six students (Alice, Bob, Carol, Dave, Elizabeth, Fred) are fabricated, and the assignment content is intentionally generic. No real student data appears anywhere. The organization exists so that readers of the paper can point ghclass's read-side functions, such as `org_repos()`, `repo_n_commits()`, and `action_runs()`, at a real, public organization and see them work, and so they can browse a worked example of what a correctly configured course organization looks like.
 
 ## Structure
 
